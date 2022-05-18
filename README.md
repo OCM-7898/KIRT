@@ -22,3 +22,12 @@ Link to dataset is [here](https://www.kaggle.com/datasets/wangziang/waste-pictur
 ![3](https://user-images.githubusercontent.com/75680423/169159047-0e4cdf2b-b728-46d2-a881-891bf1bbd842.jpg)
 ![1](https://user-images.githubusercontent.com/75680423/169159134-ae253feb-5074-4826-ba4a-3c766d6e2c05.jpg)
 
+# Download Trained Models
+
+Download Trained VGG-16 model [here](https://drive.google.com/file/d/1_EeaOy9Pd-GavvU_iQnbrhzrxQBPeh3a/view?usp=sharing)
+
+Download Trained ResNet50 model [here](https://drive.google.com/file/d/1mS0n5FKa9ixpBThQLou9tgNBSHKujiZc/view?usp=sharing)
+
+Download Trained MobileNetV2 model [here](https://drive.google.com/file/d/1z4HXgRFB5hVnjORKUdHf-NDQPIiO_GJ4/view?usp=sharing)
+
+Download App Ready ResNet50 model [here](https://drive.google.com/file/d/1JylorohSYB-FBSoyHSr2qpbzQ5QqEG_n/view?usp=sharing)
