@@ -20,5 +20,4 @@ Link to dataset is [here](https://www.kaggle.com/datasets/wangziang/waste-pictur
 ![2](https://user-images.githubusercontent.com/75680423/169159017-f7ff5085-7dd3-4d46-b312-10d466c7adb8.jpg)
 ![4](https://user-images.githubusercontent.com/75680423/169159026-34572179-4bb9-4d8d-8f28-1961e19fd635.jpg)
 ![3](https://user-images.githubusercontent.com/75680423/169159047-0e4cdf2b-b728-46d2-a881-891bf1bbd842.jpg![1](https://user-images.githubusercontent.com/75680423/169159134-ae253feb-5074-4826-ba4a-3c766d6e2c05.jpg)
-)![1](https://user-images.githubusercontent.com/75680423/169159178-91bf0490-a809-4d6b-8c0f-ed1be1e1211c.jpg)
-
+![1](https://user-images.githubusercontent.com/75680423/169159260-aa22e6af-0e09-4a53-a6d8-7d17e9b8f684.jpg)
